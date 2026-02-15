@@ -57,8 +57,8 @@ def main():
         
         
 
-        st.write("## Thank you for Visiting \nProject by Nikhil J")
-        st.markdown("<h1 style='text-align: right; color: blue; font-size: small;'><a href='https://github.com/Nikhil-Jagtap619/gym_app'>Looking for Source Code?</a></h1>", unsafe_allow_html=True)
+        st.write("## Thank you for Visiting \nProject by Suyog H")
+        st.markdown("<h1 style='text-align: right; color: blue; font-size: small;'><a href='.....'>Looking for Source Code?</a></h1>", unsafe_allow_html=True)
         # st.markdown("<h1 style='text-align: right; color: white; font-size: small'>you can find it on my GitHub</h1>", unsafe_allow_html=True)
 
     
@@ -66,5 +66,6 @@ def main():
 
 if __name__=="__main__":
     main()
+
 
 
